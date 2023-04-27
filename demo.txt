@@ -1,0 +1,1 @@
+In this article, we investigated why printing the contents of an Array is not as obvious as it seems and several solutions for that.
